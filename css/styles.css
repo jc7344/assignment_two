@@ -1,0 +1,21 @@
+div {
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 150px;
+  float: left;
+  position: relative ;
+  top: -5px;
+  margin: 0 15px 0 15px;
+}
+
+button {
+  margin: 0 10px 0 10px;
+}
+.mapBox {
+  height: 150px;
+  width: 150px;
+}
