@@ -1,6 +1,6 @@
 Tbutton.onclick = function pictureChange()
 {
-document.getElementById('santiago').src="https://thelastofthemillenniums.files.wordpress.com/2015/12/trump81.jpg";
+document.getElementById('santiago').src="https://media.giphy.com/media/wJNGA01o1Zxp6/giphy.gif";
 map.setCenter(new google.maps.LatLng(38.8976763,-77.03652979999998));
 }
 
